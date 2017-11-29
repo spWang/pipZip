@@ -1,3 +1,3 @@
-如何安装:
+如何安装:解压后查看内部README文件
 
-cd到本目录, 执行名命令 sudo python setup.py install
+cd到加压后的目录, 执行名命令 sudo python setup.py install
